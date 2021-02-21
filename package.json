@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "This package lets you easily add microinteractions to your app and reward users with the rain of confettis or flying emoji in seconds.",
   "main": "index.js",
+  "types": "index.d.ts",
   "scripts": {
 
   },
